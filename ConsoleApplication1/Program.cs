@@ -18,6 +18,7 @@ namespace ConsoleApplication1
                 Console.Write(" {0}", c);
                 a = b;
                 b = c;
+                //ggg
             }
             Console.ReadLine();
         }
